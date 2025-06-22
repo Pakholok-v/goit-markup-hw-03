@@ -179,8 +179,7 @@ a:hover,
 .hero-section {
     background-color: #2E2F42;
     text-align: center;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 188px 0 188px;
 }
 .hero-title {
     font-family: "Roboto", sans-serif;
@@ -224,7 +223,7 @@ a:hover,
 .team-section {
     background-color: #F4F4FD;
 }
-.feature-section{
+.features-section{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
